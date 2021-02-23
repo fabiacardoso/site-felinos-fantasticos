@@ -4,4 +4,4 @@
 
 Você pode ter uma prévia do site no link abaixo:
 
-<code> https://fabiacardoso.github.io/site-felinos-fantasticos/. target="_blank"</code>
+<code> https://fabiacardoso.github.io/site-felinos-fantasticos </code>
